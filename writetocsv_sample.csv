@@ -1,0 +1,6 @@
+item,sales,cost,product,category
+1,200,50,foo,fd
+3,450,150,bar,bev
+5,500,300,foobar,bev
+6,200,150,item,bev
+9,300,250,tv,fd
